@@ -35,7 +35,7 @@ formats, tools, and frameworks.
   resources)
 
 
-## Definition of Done
+## Outcomes
 
 - TODO
 
@@ -48,3 +48,12 @@ The target audience for this Working Session is:
 - Authors of CTF frameworks
 - Authors of vulnerable web applications
 
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+... Add content ...
